@@ -4,7 +4,7 @@
 use <MCAD/regular_shapes.scad>;
 use <MCAD/nuts_and_bolts.scad>;
 
-njb_h = 114.25;
+njb_h = 115;
 njb_w = 80;
 njb_lip_w = 3;
 njb_lip_d = 6.5;
